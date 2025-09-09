@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Pablo Vedoya  
 
-<!--
-**VedoyaJuan/VedoyaJuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Sistemas en la UNPSJB**  
+💻 Interesado en **ciberseguridad** y **desarrollo de software**  
+📍 Patagonia, Argentina  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías con las que trabajo
+- 🐧 Linux / Bash  
+- 🐍 Python  
+- ⚛️ React / JavaScript  
+- 🛡️ Blue Team / SOC (aprendiendo)  
+
+---
+
+## 📊 Estadísticas de GitHub
+![Tus stats](https://github-readme-stats.vercel.app/api?username=VedoyaJuan&show_icons=true&theme=radical)
+
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=VedoyaJuan&layout=compact&theme=radical)
+
+---
+
+## 📫 Contacto
+- 📧 [juanpa.vedoya@gmail.com](mailto:juanpa.vedoya@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-pablo-vedoya)
