@@ -15,8 +15,6 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-![Tus stats](https://github-readme-stats.vercel.app/api?username=VedoyaJuan&show_icons=true&theme=radical)
-
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=VedoyaJuan&layout=compact&theme=radical)
 
 ---
