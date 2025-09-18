@@ -8,7 +8,7 @@
 
 ## 🚀 Tecnologías con las que trabajo
 - 🐧 Linux / Bash  
-- 🐍 Python  
+- 🐍 Python / Java / C 
 - ⚛️ React / JavaScript  
 - 🛡️ Blue Team / SOC (aprendiendo)  
 
