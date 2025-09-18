@@ -15,7 +15,8 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VedoyaJuan&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vedoyajuan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
