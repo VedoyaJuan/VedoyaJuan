@@ -5,6 +5,10 @@
 📍 Patagonia, Argentina  
 
 ---
+## 🌐 Portafolio 
+- [https://vedoya.com.ar](http://vedoya.com.ar)
+
+---
 
 ## 🚀 Tecnologías con las que trabajo
 - 🐧 Linux / Bash  
@@ -17,8 +21,6 @@
 ## 📊 Estadísticas de GitHub
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vedoyajuan&theme=dark&hide_border=true)
-
-
 
 ---
 
