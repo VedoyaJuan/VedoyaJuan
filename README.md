@@ -14,7 +14,7 @@
 - 🐧 Linux / Bash  
 - 🐍 Python / Java / C 
 - ⚛️ React / JavaScript  
-- 🛡️ Blue Team / SOC (aprendiendo)  
+- 🛡️ Ciberseguridad (aprendiendo)  
 
 ---
 
