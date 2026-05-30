@@ -1,7 +1,7 @@
 # 👋 Hola, soy Juan Pablo Vedoya  
 
-🎓 Estudiante de **Sistemas en la UNPSJB**  
-💻 Interesado en **ciberseguridad** y **desarrollo de software**  
+🎓 **Analista Programador Universitario** y estudiante de **Lic. Sistemas en la UNPSJB**  
+💻 Interesado en **analisis de sistemas** y **desarrollo de software**  
 📍 Patagonia, Argentina  
 
 ---
@@ -13,8 +13,7 @@
 ## 🚀 Tecnologías con las que trabajo
 - 🐧 Linux / Bash  
 - 🐍 Python / Java / C 
-- ⚛️ React / JavaScript  
-- 🛡️ Ciberseguridad (aprendiendo)  
+- ⚛️ React / JavaScript / Django / Postgresql
 
 ---
 
